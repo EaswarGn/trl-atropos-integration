@@ -1,6 +1,8 @@
 [submodule "atropos"]
 	path = atropos
 	url = https://github.com/EaswarGn/atropos.git
+	branch = dev
 [submodule "trl"]
 	path = trl
 	url = https://github.com/EaswarGn/trl.git
+	branch = dev
