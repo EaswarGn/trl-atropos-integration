@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "atropos",
+      "path": "./atropos",
+      "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder:atropos}/.venv/bin/python3" 
+      }
+    },
+    {
+      "name": "trl",
+      "path": "./trl",
+      "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder:trl}/.venv/bin/python3"
+      }
+    }
+  ],
+  "settings": {
+  }
+}
